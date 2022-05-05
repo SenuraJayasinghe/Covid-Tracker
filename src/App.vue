@@ -1,7 +1,7 @@
 <template>
 <Header />
-<div class="container">
-  <RouterView />
+<div class="container h-screen bg-[#f0f9ff]" >
+  <RouterView  />
   </div>
 </template>
 
